@@ -1,4 +1,4 @@
-# React - Reversed Spider Solitaire
+# React - Spider Solitaire
 
 ## Game Description
 
@@ -176,4 +176,4 @@ Tested component and UI using Cypress. A total of 32 tests were performed and no
 
 
 ## Demo Site
-[Reversed Spider Solitaire](https://omer-caliskan-react-solitaire.netlify.app/)
+[Reversed Spider Solitaire](https://spider-solitaire-game.com/)
