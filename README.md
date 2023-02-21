@@ -174,6 +174,9 @@ Tested component and UI using Cypress. A total of 32 tests were performed and no
 
 ![Lightouse Mobile](./markdown/lightmobile.png)
 
+### For preview
+
+![Lightouse Mobile](./markdown/sample.png)
 
 ## Demo Site
 [Reversed Spider Solitaire](https://spider-solitaire-game.com/)
